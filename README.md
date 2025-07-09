@@ -44,5 +44,5 @@ Suponha:
 | `LEFT JOIN`  | Pedro, Ana (Ana com `NULL` na partida) |
 | `RIGHT JOIN` | Pedro                                  |
 
----
+--- Caso queira ver meu LinkedIn: [clique aqui]([https://www.linkedin.com/in/pedro-farenzena-a3228b307/](https://senacrsedu-my.sharepoint.com/:w:/g/personal/03034353057_senacrs_edu_br/Ec6WNsgKFkxNtMntyUwrFJEBtByhCp5xiQN6zHMGReWbEw?e=D1epjb))
 
